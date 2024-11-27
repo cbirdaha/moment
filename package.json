@@ -80,7 +80,7 @@
         "typescript": "^1.8.10",
         "typescript3": "npm:typescript@^3.1.6",
         "uglify-js": "latest",
-        "@types/node": "17.0.21"
+        "@types/node": "17.0.45"
     },
     "ender": "./ender.js",
     "dojoBuild": "package.js",
